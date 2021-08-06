@@ -1,4 +1,4 @@
-/* test/sample-test.js */
+/* test/sample-test.js hardhat-test*/
 describe('NFTMarket', function () {
   it('Should create and execute market sales', async function () {
     /* deploy the marketplace */
